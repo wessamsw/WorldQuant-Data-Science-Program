@@ -2,6 +2,7 @@
 Here you can find all the 8 projects of WorldQuant's Data Science Program along with my certification. 
 
 I'm exhilarated to share that I have successfully completed WorldQuant's Data Science Program, a transformative journey that has broadened my skills and knowledge in the field of data science! 🎓 ✨ 
+
 Check my badge: https://www.credly.com/badges/4480df1c-d561-4ef8-9852-79b5748e0c73/public_url
 
 
